@@ -1,6 +1,11 @@
 # YamunotriApp
 Mobile Application for CM Yamunotri Center
 
+## Getting Started with this Repo and React Native
+### Software Required
+
+
+
 ## Helpful Tutorials for Learning React and React Native
 **1.** React Video Series - https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=1
 
@@ -16,12 +21,16 @@ Mobile Application for CM Yamunotri Center
 
 **3.** Develop an easy method for recording classroom attendance
 
+**4.** 
+
 ## Goals
 **1.** Develop a basic mobile application framework in Native React integrating Feature 1 requirements
 
 **2.** Determine methodolody for deploying application in android and iOS
 
 **3.** Discuss goal 1 deliverable with Yamunotri Team and determine deployment strategy
+
+
 
 
 
